@@ -1,0 +1,10 @@
+.red{
+    color: red;
+}
+
+.red:hover{
+    color: blue;
+    padding-top: 4px;
+    transition: color 1s, padding-top 200ms;
+}
+
